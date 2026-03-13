@@ -47,11 +47,10 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+<h1>
+  Connect With Me
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
+</h1>
 
 <!--icons and links-->
 <p align="center">
