@@ -47,10 +47,11 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<h1>
+
+<h2>
   Connect With Me
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
-</h1>
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="25px">
+</h2>
 
 <!--icons and links-->
 <p align="center">
