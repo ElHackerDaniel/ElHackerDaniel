@@ -13,25 +13,28 @@
 - ⚡ Fun fact: I like to program with friends and play games :3
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-<!--- stats & Trophy (start) -->
+
 <p align="center">
-  <!--- stats (start) -->
+<img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=22&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Analytics;Tracking+my+coding+activity;Building+cool+projects+🚀">
+</p>
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElHackerDaniel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
-  <br></br>
-<a href="https://github.com/HridoyHazard/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElHackerDaniel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a></td>
+<img src="https://github-readme-stats.vercel.app/api?username=ElHackerDaniel&show_icons=true&count_private=true&include_all_commits=true&title_color=A855F7&icon_color=00F5FF&text_color=FFFFFF&bg_color=000000&border_color=A855F7" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElHackerDaniel&theme=tokyonight&hide_border=true&background=000000&ring=00F5FF&fire=A855F7&currStreakLabel=00F5FF" />
+
+</td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElHackerDaniel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElHackerDaniel&layout=compact&title_color=A855F7&text_color=FFFFFF&bg_color=000000&border_color=A855F7" />
+
+</td>
 </tr>
 </table>
 
