@@ -1,3 +1,5 @@
+![Portada](https://github.com/user-attachments/assets/77b7c9a0-5fc5-4598-831c-9849c2b16446)
+
 - 👋 Hi, I'm @ElHackerDaniel
 - 👀 I'm interested in cybersecurity
 - 🌱 I'm currently learning hacker ethics and programming in python
