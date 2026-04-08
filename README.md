@@ -38,6 +38,17 @@
 </tr>
 </table>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Operative Systems</b>
+<br>
+<!--tech stack icons-->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux" />
+  <br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" />
+  <img src="https://cdn.simpleicons.org/parrotsecurity" width="48" />
+</p>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 <!--tech stack icons-->
@@ -46,7 +57,27 @@
   <img src="https://skillicons.dev/icons?i=git,css,docker,bash,androidstudio,github,html,java,js,linux,mysql,django,nodejs,py,react,sqlite,vscode&perline=17" />
 </a>
 
+## <b>🛠️ Hacking Tools</b> 
 
+![Metasploit](https://img.shields.io/badge/Metasploit-4986B1?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-7C3BE4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-DC143C?style=for-the-badge&logo=mimikatz&logoColor=white)
+![Responder](https://img.shields.io/badge/Responder-FF0000?style=for-the-badge&logo=ghost&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-3E6E93?style=for-the-badge&logo=sqlmap&logoColor=white)
+![XSSer](https://img.shields.io/badge/XSSer-000000?style=for-the-badge&logo=xss&logoColor=white)
+![NoSQLMap](https://img.shields.io/badge/NoSQLMap-0B5394?style=for-the-badge&logo=nosqlmap&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FF5C93?style=for-the-badge&logo=snort&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-008000?style=for-the-badge&logo=openvas&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-22BB33?style=for-the-badge&logo=tenable&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-AA1111?style=for-the-badge&logo=jtr&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-333399?style=for-the-badge&logo=hydra&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-994422?style=for-the-badge&logo=hashcat&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-cc0000?style=for-the-badge&logo=bloodhound&logoColor=white)
+<br><br>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
