@@ -22,17 +22,17 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ElHackerDaniel&show_icons=true&count_private=true&include_all_commits=true&title_color=A855F7&icon_color=00F5FF&text_color=FFFFFF&bg_color=000000&border_color=A855F7" />
+<img src="https://github-readme-stats.vercel.app/api?username=XorSvn&show_icons=true&count_private=true&include_all_commits=true&title_color=A855F7&icon_color=00F5FF&text_color=FFFFFF&bg_color=000000&border_color=A855F7" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElHackerDaniel&theme=tokyonight&hide_border=true&background=000000&ring=00F5FF&fire=A855F7&currStreakLabel=00F5FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XorSvn&theme=tokyonight&hide_border=true&background=000000&ring=00F5FF&fire=A855F7&currStreakLabel=00F5FF" />
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElHackerDaniel&layout=compact&title_color=A855F7&text_color=FFFFFF&bg_color=000000&border_color=A855F7" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XorSvn&layout=compact&title_color=A855F7&text_color=FFFFFF&bg_color=000000&border_color=A855F7" />
 
 </td>
 </tr>
